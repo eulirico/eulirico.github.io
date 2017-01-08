@@ -1,21 +1,13 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
 
-# Basic
 name:               "Eu lírico"
 
 
 
 author:
-  name:             your-name
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  name:             Tulio Coelho
+  facebook:         TulioAc95
+  github:           tulioc
+  email:            tulioopc@gmail.com
 
 # Google-analytics
 google-analytics:
@@ -27,7 +19,7 @@ disqus:
 
 # URL
 #url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
-url:                "http://eulirico.github.io" # use this url when develop
+url:                "http://eulirico.github.io/" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
 
@@ -46,9 +38,9 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Sobre"
     url:            "/about"
-  - name:           "Archive"
+  - name:           "Arquivo"
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
