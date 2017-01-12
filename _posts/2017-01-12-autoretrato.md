@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Autorretrato"
+title: "Espelho"
 description: ""
-date: 2017-01-08
+date: 2017-01-012
 tags: [Texto]
 share: true
 ---
