@@ -33,7 +33,7 @@ Meus mundos são expressões dos meus desejos,
 o que isso lhe diz sobre Deus?
 
 
-A hipocrisia de quem te pede pra ser autêntico me da nojo
+A hipocrisia de quem te pede pra ser autêntico me dá nojo
 
 E sobre isso tenho pouquíssimas linhas.
 
@@ -41,14 +41,14 @@ Só aceitam autenticidade de uma certa classe.
 
 E se você não faz parte dela,
 
-a bela autenticidade se transforma em orgulho e atitudes mesquinhas.
+a 'bela' autenticidade se transforma em orgulho e atitudes mesquinhas.
 
 
 Sei bem o que eu quero agora, só isso.
 
 Sei bem o que sinto hoje. Sei bem o que estou sentindo.
 
-A vida é vídeo, não foto. Auto conhecimento é frame,
+A vida é vídeo, não foto. Autoconhecimento é frame,
 
 e estou nos meus primeiros, não me importo com os últimos.
 
