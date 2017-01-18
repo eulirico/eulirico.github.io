@@ -48,7 +48,7 @@ Um produto na vitrine
 
 com cara de propaganda da listerine,
 
-E tu quer que eu rime?
+e tu quer que eu rime?
 
 Vitrine? Logo eu?
 
