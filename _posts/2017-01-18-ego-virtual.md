@@ -59,7 +59,7 @@ e adoro jogar pedras em vidros?
 ----------
 
 
-A verdade é que cada a 'curtida' se curte uma pessoa que não existe,
+A verdade é que a cada 'curtida' se curte uma pessoa que não existe,
 
 que não é, e nunca será.
 
