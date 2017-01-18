@@ -9,7 +9,7 @@ share: true
 
 O virtual funciona como um filtro
 
-nele posso me vestir como normalmente não me visto
+nele posso me vestir como normalmente não me visto,
 
 e a frequencia com que utilizo
 
