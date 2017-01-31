@@ -16,7 +16,7 @@ Quanta competição para colocar comida na barriga?
 
 ----------
 
-Falsas felicidades enterram tritezas verdadeiras
+Falsas felicidades enterram tristezas verdadeiras
 
 Eu vejo nas cidades tantas peneiras e trincheiras
 
